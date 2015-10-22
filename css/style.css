@@ -885,3 +885,8 @@ a {
     display: none;
   }
 }
+
+.profileImage {
+  width: 300;
+  height: 400;
+}
